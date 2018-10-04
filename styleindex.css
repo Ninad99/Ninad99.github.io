@@ -9,12 +9,6 @@ body {
 	justify-content: center;
 }
 
-.buttoncontainer {
-	display: inline-block;
-	margin: 10px;
-
-}
-
 .col {
 	background-color: transparent;
 }
